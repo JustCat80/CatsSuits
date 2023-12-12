@@ -1,0 +1,9 @@
+{
+    "name": "CatsSuits",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/JustCat80/CatsSuits",
+    "description": "A More Suits Pack I made for me and some friends",
+    "dependencies": [
+    "x753-More_Suits-1.3.3"
+    ]
+}
